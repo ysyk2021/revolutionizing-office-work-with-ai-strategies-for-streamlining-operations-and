@@ -33,5 +33,5 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 17. Office optimization with AI
 18. Workflow automation with AI
 19. Intelligent scheduling solutions
-20. Bias in AI algorithms and ethics in the workplace.
+20. Bias in AI algorithms and ethics in the workplace
 
