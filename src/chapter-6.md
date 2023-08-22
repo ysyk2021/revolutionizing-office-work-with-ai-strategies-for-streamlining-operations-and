@@ -1,5 +1,4 @@
-Chapter 5: Optimizing Office Spaces with AI
-===========================================
+
 
 The office environment plays a crucial role in employee comfort, health, and productivity. In this chapter, we will explore how AI technology can be used to optimize office spaces for these factors.
 

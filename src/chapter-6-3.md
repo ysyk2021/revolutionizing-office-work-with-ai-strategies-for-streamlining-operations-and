@@ -1,5 +1,4 @@
-Addressing Ethical Considerations in Using AI for Optimizing Office Spaces
-=======================================================================================================================
+
 
 While using AI technology to optimize office spaces has many potential benefits, there are also several ethical considerations that must be addressed. In this chapter, we will explore some of these considerations and discuss how organizations can address them.
 
