@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology has revolutionized the way businesses operate in recent years. From manufacturing to healthcare, AI has proven its potential for streamlining operations and enhancing productivity. One area where AI can have a significant impact is the office environment.
 
 The traditional office is often associated with manual, repetitive tasks that take up valuable employee time. These tasks can be time-consuming, tedious, and prone to errors. However, by leveraging AI technology, businesses can automate these tasks and free up employee time for more creative and strategic work.

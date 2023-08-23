@@ -1,5 +1,4 @@
 
-
 The office environment plays a critical role in employee comfort, health, and productivity. In this chapter, we will explore how AI technology can be used to optimize office spaces for these factors.
 
 Analyzing Data on Office Environment
