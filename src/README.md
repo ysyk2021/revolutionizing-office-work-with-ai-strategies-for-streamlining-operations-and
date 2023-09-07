@@ -8,3 +8,7 @@ This book explores the ways in which AI can revolutionize office work by streaml
 By understanding the potential of AI technology and embracing its use in the office environment, businesses can stay ahead of the curve and achieve even greater levels of efficiency and productivity. This book provides insights and strategies for using AI in the office environment effectively and responsibly. Let's explore the potential of AI for revolutionizing office work.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
