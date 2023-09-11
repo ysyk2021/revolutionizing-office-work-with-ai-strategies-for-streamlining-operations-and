@@ -1,5 +1,4 @@
-Chapter 11: Use of AI for Automating Repetitive Office Tasks and Processes
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced office environments, repetitive tasks can consume valuable time and resources. Artificial Intelligence (AI) offers a powerful solution for automating these repetitive office tasks and processes. This chapter explores how AI can be leveraged to streamline operations, increase efficiency, and enhance productivity by automating repetitive tasks.
 

@@ -1,5 +1,4 @@
-Chapter 9: Addressing Potential Challenges and Ethical Considerations in Using AI for Task Automation
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As AI technologies continue to revolutionize office work, task automation plays a significant role in streamlining operations and enhancing productivity. However, it is essential to address potential challenges and ethical considerations that may arise when implementing AI for task automation. This chapter explores these challenges and provides strategies to mitigate risks while maintaining an ethical and responsible approach.
 

@@ -1,5 +1,4 @@
-Strategies for Promoting AI Adoption and Integrating it into Company Culture
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As organizations seek to revolutionize office work by harnessing the power of artificial intelligence (AI), it is crucial to develop strategies that promote AI adoption and integrate it into the company culture. This chapter explores effective approaches for fostering AI adoption and creating a culture that embraces AI technologies.
 

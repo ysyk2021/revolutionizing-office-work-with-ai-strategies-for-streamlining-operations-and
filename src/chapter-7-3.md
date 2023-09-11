@@ -1,5 +1,4 @@
-Chapter 7: Addressing Concerns and Resistance to AI Adoption in the Office Environment
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the process of revolutionizing office work with AI technologies, it is common to encounter concerns and resistance from employees. This chapter explores effective strategies for addressing these concerns and overcoming resistance to AI adoption in the office environment.
 

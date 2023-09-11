@@ -1,5 +1,4 @@
-Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving field of artificial intelligence (AI), various techniques and approaches are employed to develop intelligent systems. In this chapter, we explore three fundamental types of AI: Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL). Understanding these types is crucial for comprehending the capabilities and limitations of AI systems within the context of revolutionizing office work.
 

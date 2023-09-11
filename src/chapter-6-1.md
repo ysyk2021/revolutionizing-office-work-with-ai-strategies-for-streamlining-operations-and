@@ -1,5 +1,4 @@
-Chapter: Use of AI for Optimizing Office Spaces for Employee Comfort, Health, and Productivity
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of *Revolutionizing Office Work with AI: Strategies for Streamlining Operations and Enhancing Productivity*, we explore the utilization of artificial intelligence (AI) to optimize office spaces, aiming to enhance employee comfort, health, and productivity. By leveraging AI technologies, businesses can create work environments that foster well-being, boost productivity, and improve overall employee satisfaction.
 

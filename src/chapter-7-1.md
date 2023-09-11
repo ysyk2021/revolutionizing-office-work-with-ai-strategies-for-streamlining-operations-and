@@ -1,5 +1,4 @@
-Building a Culture that Embraces AI and Innovation in the Office Environment
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's rapidly evolving business landscape, embracing artificial intelligence (AI) and fostering innovation has become crucial for organizations seeking to revolutionize office work. This chapter explores strategies for building a culture that embraces AI and innovation within the context of streamlining operations and enhancing productivity.
 

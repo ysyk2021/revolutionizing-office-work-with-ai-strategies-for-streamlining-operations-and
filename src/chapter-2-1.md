@@ -1,5 +1,4 @@
-Chapter: Explanation of AI Technology and Its Capabilities for Office Work
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of *Revolutionizing Office Work with AI: Strategies for Streamlining Operations and Enhancing Productivity*, we delve into the world of artificial intelligence (AI) technology and its transformative capabilities for office work. We explore the basic concepts of AI, its various applications, and how it can revolutionize traditional office practices to improve efficiency and productivity.
 

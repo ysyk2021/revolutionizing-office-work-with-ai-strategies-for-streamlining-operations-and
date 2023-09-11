@@ -1,5 +1,4 @@
-Chapter: Personalized Recommendations for Lighting, Temperature Control, and More
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of *Revolutionizing Office Work with AI: Strategies for Streamlining Operations and Enhancing Productivity*, we delve into the importance of personalized recommendations for optimizing lighting, temperature control, and various other factors in the office environment. By leveraging artificial intelligence (AI), businesses can create a more comfortable and productive workspace tailored to the needs and preferences of each individual employee.
 

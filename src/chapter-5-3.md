@@ -1,5 +1,4 @@
-Addressing Concerns and Ethical Considerations in Using AI for Communication and Collaboration
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) technologies continue to advance, they are increasingly being integrated into various aspects of office work, particularly in communication and collaboration. While AI brings forth numerous benefits, it is crucial to acknowledge and address the concerns and ethical considerations associated with its implementation. In this chapter, we explore the potential challenges and provide strategies for responsibly using AI in communication and collaboration within the context of revolutionizing office work.
 

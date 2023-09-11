@@ -1,5 +1,4 @@
-Chapter 8: Using AI for Enhancing Communication and Collaboration in the Office Environment
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced business environment, effective communication and collaboration are crucial for productivity and success. Artificial Intelligence (AI) technologies offer innovative solutions to streamline communication and collaboration processes in the office. This chapter explores the various ways AI can be leveraged to enhance communication and collaboration, fostering a more connected and productive workplace.
 
